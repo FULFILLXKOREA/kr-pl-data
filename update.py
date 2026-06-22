@@ -2,7 +2,6 @@ import requests
 from datetime import datetime
 
 JSON_URL = "http://141.164.53.195/live/korea-live.json"
-
 OUTPUT1 = "korea.m3u8"    # DIYP 影音
 OUTPUT2 = "korea2.m3u8"   # 标准 M3U（支持 php）
 
@@ -22,7 +21,6 @@ def extract_m3u8_only(uris):
             return uris.strip()
     return None
 
-
 def extract_m3u8_or_php(uris):
     urls = []
     def is_valid(u):
@@ -41,7 +39,6 @@ def extract_m3u8_or_php(uris):
         return urls[0]
     return None
 
-
 def run():
     try:
         r = requests.get(JSON_URL, timeout=20)
@@ -59,15 +56,25 @@ def run():
     for item in data:
         name = item.get("name", "").strip()
         uris = item.get("uris")
+        group = (item.get("group") or "").strip()
+        logo = (item.get("logo") or "").strip()
+
         if not name or not uris:
             continue
+
         url1 = extract_m3u8_only(uris)
         if url1:
             lines1.append(f"{name},{url1}")
             count1 += 1
+
         url2 = extract_m3u8_or_php(uris)
         if url2:
-            lines2.append(f"#EXTINF:-1,{name}")
+            attrs = ""
+            if logo:
+                attrs += f' tvg-logo="{logo}"'
+            if group:
+                attrs += f' group-title="{group}"'
+            lines2.append(f'#EXTINF:-1{attrs},{name}')
             lines2.append(url2)
             count2 += 1
 
@@ -79,7 +86,6 @@ def run():
     print(f"{datetime.now()} DIYP 频道数量: {count1}")
     print(f"{datetime.now()} 标准 M3U 频道数量: {count2}")
     print(f"{datetime.now()} 已生成文件: {OUTPUT1}, {OUTPUT2}")
-
 
 if __name__ == "__main__":
     run()
