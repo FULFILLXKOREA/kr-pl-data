@@ -90,6 +90,7 @@ SPOTV Prime-2,http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime
 SPOTV Prime 2-2,http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2
 SPOTV Prime 1-2,http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1
 SBS PLUS-2,http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
+현상수배 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/현상수배_본편.m3u8
 리 크로닌의 미이라 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/리 크로닌의 미이라_본편.m3u8
 남편들 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/남편들_본편.m3u8
 교생실습 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/교생실습_본편.m3u8
@@ -188,7 +189,6 @@ SBS PLUS-2,http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
 차라리 죽여 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/차라리 죽여_본편.m3u8
 엄마를 버리러 갑니다 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/엄마를 버리러 갑니다_본편.m3u8
 고백하지마 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/고백하지마_본편.m3u8
-터널 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/터널_본편.m3u8
 스크림 스크림6,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/스크림_스크림6.m3u8
 기쁜 우리 좋은 날 제61회 26/06/24,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/기쁜 우리 좋은 날_제61회 26_06_24.m3u8
 첫 번째 남자 제134회 26/06/24,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/첫 번째 남자_제134회 26_06_24.m3u8
@@ -289,6 +289,11 @@ F1, 본능의 질주: 시즌 8 제7회 26/04/02,https://file-1253962976.cos.ap-n
 오늘부터 인간입니다만 제12회 26/02/28,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/오늘부터 인간입니다만_제12회 26_02_28.m3u8
 블러디 플라워 제7회 26/02/25,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/블러디 플라워_제7회 26_02_25.m3u8
 아기가 생겼어요 제11회 26/02/21,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/아기가 생겼어요_제11회 26_02_21.m3u8
+나는 SOLO <나는 솔로> 제259회 26/06/24,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/나는 SOLO _나는 솔로__제259회 26_06_24.m3u8
+골 때리는 그녀들 제246회 26/06/24,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/골 때리는 그녀들_제246회 26_06_24.m3u8
+유 퀴즈 온 더 블럭 2026 제17회 26/06/24,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/유 퀴즈 온 더 블럭 2026_제17회 26_06_24.m3u8
+잡학자들 제33회 26/06/24,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/잡학자들_제33회 26_06_24.m3u8
+황신혜의 같이 삽시다 제24회 26/06/24,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/황신혜의 같이 삽시다_제24회 26_06_24.m3u8
 신드롬 제2회 26/06/23,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/신드롬_제2회 26_06_23.m3u8
 동상이몽 2 - 너는 내 운명 제449회 26/06/23,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/동상이몽 2 - 너는 내 운명_제449회 26_06_23.m3u8
 하트시그널5 제11회 26/06/23,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/하트시그널5_제11회 26_06_23.m3u8
@@ -384,11 +389,11 @@ THE 맛있는 녀석들 제101회 26/06/19,https://file-1253962976.cos.ap-nanjin
 서장훈의 이웃집 백만장자 시즌2 제37회 26/06/17,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/서장훈의 이웃집 백만장자 시즌2_제37회 26_06_17.m3u8
 아이돌 파견근무 제2회 26/06/17,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/아이돌 파견근무_제2회 26_06_17.m3u8
 생존왕 2 제4회 26/06/17,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/생존왕 2_제4회 26_06_17.m3u8
-괴담노트 시즌2 : 만신전의 기록 제24회 26/06/17,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/괴담노트 시즌2 _ 만신전의 기록_제24회 26_06_17.m3u8
-개와 늑대의 시간 시즌2 제22회 26/06/17,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/개와 늑대의 시간 시즌2_제22회 26_06_17.m3u8
 나는 SOLO <나는 솔로> 제258회 26/06/17,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/나는 SOLO _나는 솔로__제258회 26_06_17.m3u8
-라디오스타 제427회 26/06/17,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/라디오스타_제427회 26_06_17.m3u8
 골 때리는 그녀들 제245회 26/06/17,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/골 때리는 그녀들_제245회 26_06_17.m3u8
+유 퀴즈 온 더 블럭 2026 제16회 26/06/17,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/유 퀴즈 온 더 블럭 2026_제16회 26_06_17.m3u8
+잡학자들 제32회 26/06/17,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/잡학자들_제32회 26_06_17.m3u8
+황신혜의 같이 삽시다 제23회 26/06/17,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/황신혜의 같이 삽시다_제23회 26_06_17.m3u8
 신드롬 제1회 26/06/16,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/신드롬_제1회 26_06_16.m3u8
 동상이몽 2 - 너는 내 운명 제448회 26/06/16,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/동상이몽 2 - 너는 내 운명_제448회 26_06_16.m3u8
 하트시그널5 제10회 26/06/16,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/하트시그널5_제10회 26_06_16.m3u8
@@ -476,11 +481,6 @@ THE 맛있는 녀석들 제100회 26/06/12,https://file-1253962976.cos.ap-nanjin
 서장훈의 이웃집 백만장자 시즌2 제36회 26/06/11,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/서장훈의 이웃집 백만장자 시즌2_제36회 26_06_11.m3u8
 아이돌 파견근무 제1회 26/06/10,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/아이돌 파견근무_제1회 26_06_10.m3u8
 생존왕 2 제3회 26/06/10,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/생존왕 2_제3회 26_06_10.m3u8
-괴담노트 시즌2 : 만신전의 기록 제23회 26/06/10,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/괴담노트 시즌2 _ 만신전의 기록_제23회 26_06_10.m3u8
-개와 늑대의 시간 시즌2 제21회 26/06/10,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/개와 늑대의 시간 시즌2_제21회 26_06_10.m3u8
-나는 SOLO <나는 솔로> 제257회 26/06/10,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/나는 SOLO _나는 솔로__제257회 26_06_10.m3u8
-라디오스타 제426회 26/06/10,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/라디오스타_제426회 26_06_10.m3u8
-골 때리는 그녀들 제244회 26/06/10,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/골 때리는 그녀들_제244회 26_06_10.m3u8
 更新日期: 2026-6-24 18:31:12,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv1hd265/51/20191230/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260624182414&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=219.151.28.94&SecurityKey=20260624182414&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=2ebc6fe6f8751ac2c2ee9d861525484e&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1782296651813&prlId=4f89b0f1d885527a227fd4a636419cfe1782296651846&jid=4f89b0f1d885527a227fd4a636419cfe1782296651251V&is_advertise=0&sjid=subsession_1782296680490&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ef49daa9b7bb94249d4d74ba3f407cd4
 CCTV1综合,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv1hd265/51/20191230/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260624182414&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=219.151.28.94&SecurityKey=20260624182414&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=2ebc6fe6f8751ac2c2ee9d861525484e&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1782296651813&prlId=4f89b0f1d885527a227fd4a636419cfe1782296651846&jid=4f89b0f1d885527a227fd4a636419cfe1782296651251V&is_advertise=0&sjid=subsession_1782296680490&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ef49daa9b7bb94249d4d74ba3f407cd4
 CCTV2财经,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv2hd/1500/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5500346945&pid=2028597139&timestamp=20260624171614&Channel_ID=0116_2600037000-99000-200300220112474&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=116.179.48.222&SecurityKey=20260624171614&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=ZQ-A1-9.6.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=bc99589324e6b9843f299a063cc4c5e9
