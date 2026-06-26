@@ -181,6 +181,8 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2
 http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1
 #EXTINF:-1 tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/SBSPLUS.png" group-title="한국-생방송2",SBS PLUS-2
 http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51809.jpg" group-title="영화",언더커버 대디 본편
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/언더커버 대디_본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51802.jpg" group-title="영화",현상수배 본편
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/현상수배_본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51799.jpg" group-title="영화",리 크로닌의 미이라 본편
@@ -377,8 +379,6 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/튜즈데이_본
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/차라리 죽여_본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51365.jpg" group-title="영화",엄마를 버리러 갑니다 본편
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/엄마를 버리러 갑니다_본편.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51359.jpg" group-title="영화",고백하지마 본편
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/고백하지마_본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/46562.jpg" group-title="영화",스크림 스크림6
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/스크림_스크림6.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51551.jpg" group-title="드라마(다시보기)",기쁜 우리 좋은 날 제62회 26/06/25
