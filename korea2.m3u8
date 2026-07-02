@@ -181,6 +181,8 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2
 http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1
 #EXTINF:-1 tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/SBSPLUS.png" group-title="한국-생방송2",SBS PLUS-2
 http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51832.jpg" group-title="영화",아고라 본편
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/아고라_본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51833.jpg" group-title="영화",신의악단 본편
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/신의악단_본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51827.jpg" group-title="영화",페니키안 스킴 본편
@@ -377,18 +379,16 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/프로젝트 Y_�
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/굿 포츈_본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51332.jpg" group-title="영화",오늘 밤, 세계에서 이 사랑이 사라진다 해도 본편
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/오늘 밤, 세계에서 이 사랑이 사라진다 해도_본편.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51419.jpg" group-title="영화",하얀 차를 탄 여자 본편
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/하얀 차를 탄 여자_본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/46562.jpg" group-title="영화",스크림 스크림6
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/스크림_스크림6.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51551.jpg" group-title="드라마(다시보기)",기쁜 우리 좋은 날 제67회 26/07/02
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/기쁜 우리 좋은 날_제67회 26_07_02.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51810.jpg" group-title="드라마(다시보기)",삼도천 택시 제4회 26/07/02
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/삼도천 택시_제4회 26_07_02.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51208.jpg" group-title="드라마(다시보기)",첫 번째 남자 제140회 26/07/02
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/첫 번째 남자_제140회 26_07_02.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51393.jpg" group-title="드라마(다시보기)",붉은 진주 제77회 26/07/02
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/붉은 진주_제77회 26_07_02.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51551.jpg" group-title="드라마(다시보기)",기쁜 우리 좋은 날 제66회 26/07/01
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/기쁜 우리 좋은 날_제66회 26_07_01.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51725.jpg" group-title="드라마(다시보기)",닥터 섬보이 제10회 26/06/30
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/닥터 섬보이_제10회 26_06_30.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51726.jpg" group-title="드라마(다시보기)",내일도 출근! 제4회 26/06/30
@@ -481,14 +481,14 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/우주를 줄게
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/아너 _ 그녀들의 법정_최종회 26_03_10.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51244.jpg" group-title="드라마(다시보기)",언더커버 미쓰홍 최종회 26/03/08
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/언더커버 미쓰홍_최종회 26_03_08.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51551.jpg" group-title="드라마(다시보기)",기쁜 우리 좋은 날 제66회 26/07/01
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/기쁜 우리 좋은 날_제66회 26_07_01.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51810.jpg" group-title="드라마(다시보기)",삼도천 택시 제3회 26/07/02
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/삼도천 택시_제3회 26_07_02.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51208.jpg" group-title="드라마(다시보기)",첫 번째 남자 제139회 26/07/01
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/첫 번째 남자_제139회 26_07_01.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51393.jpg" group-title="드라마(다시보기)",붉은 진주 제76회 26/07/01
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/붉은 진주_제76회 26_07_01.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51551.jpg" group-title="드라마(다시보기)",기쁜 우리 좋은 날 제65회 26/06/30
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/기쁜 우리 좋은 날_제65회 26_06_30.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51725.jpg" group-title="드라마(다시보기)",닥터 섬보이 제9회 26/06/29
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/닥터 섬보이_제9회 26_06_29.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51726.jpg" group-title="드라마(다시보기)",내일도 출근! 제3회 26/06/29
@@ -579,6 +579,16 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/월간남친_제
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/우주를 줄게_제11회 26_03_11.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51244.jpg" group-title="드라마(다시보기)",언더커버 미쓰홍 제16회 26/03/08
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/언더커버 미쓰홍_제16회 26_03_08.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/42478.jpg" group-title="예능(다시보기)",신상출시 편스토랑 제330회 26/07/02
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/신상출시 편스토랑_제330회 26_07_02.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51805.jpg" group-title="예능(다시보기)",자식방생프로젝트 합숙 맞선2 제2회 26/07/02
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/자식방생프로젝트 합숙 맞선2_제2회 26_07_02.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/40381.jpg" group-title="예능(다시보기)",어서와~ 한국은 처음이지? 제403회 26/07/02
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/어서와~ 한국은 처음이지__제403회 26_07_02.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51774.jpg" group-title="예능(다시보기)",웰컴 투 수근스쿨 제2회 26/07/02
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/웰컴 투 수근스쿨_제2회 26_07_02.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51699.jpg" group-title="예능(다시보기)",언더커버 셰프 제7회 26/07/02
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/언더커버 셰프_제7회 26_07_02.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51731.jpg" group-title="예능(다시보기)",미친맛집: 미식가 친구의 맛집 시즌6 제7회 26/07/02
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/미친맛집_ 미식가 친구의 맛집 시즌6_제7회 26_07_02.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/48875.jpg" group-title="예능(다시보기)",엠카운트다운 M COUNTDOWN 제110회 26/07/02
@@ -769,14 +779,14 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/꼬리에 꼬리
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/구해줘! 홈즈_제361회 26_06_25.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51690.jpg" group-title="예능(다시보기)",미스트롯 포유 제7회 26/06/25
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/미스트롯 포유_제7회 26_06_25.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51038.jpg" group-title="예능(다시보기)",서장훈의 이웃집 백만장자 시즌2 제38회 26/06/25
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/서장훈의 이웃집 백만장자 시즌2_제38회 26_06_25.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51806.jpg" group-title="예능(다시보기)",세계관충돌 제1회 26/06/25
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/세계관충돌_제1회 26_06_25.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/42478.jpg" group-title="예능(다시보기)",신상출시 편스토랑 제329회 26/06/18
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/신상출시 편스토랑_제329회 26_06_18.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51805.jpg" group-title="예능(다시보기)",자식방생프로젝트 합숙 맞선2 제1회 26/06/25
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/자식방생프로젝트 합숙 맞선2_제1회 26_06_25.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/40381.jpg" group-title="예능(다시보기)",어서와~ 한국은 처음이지? 제402회 26/06/25
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/어서와~ 한국은 처음이지__제402회 26_06_25.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51774.jpg" group-title="예능(다시보기)",웰컴 투 수근스쿨 제1회 26/06/25
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/웰컴 투 수근스쿨_제1회 26_06_25.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51699.jpg" group-title="예능(다시보기)",언더커버 셰프 제6회 26/06/25
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/언더커버 셰프_제6회 26_06_25.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51731.jpg" group-title="예능(다시보기)",미친맛집: 미식가 친구의 맛집 시즌6 제6회 26/06/25
@@ -967,12 +977,6 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/꼬리에 꼬리
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/구해줘! 홈즈_제360회 26_06_18.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51690.jpg" group-title="예능(다시보기)",미스트롯 포유 제6회 26/06/18
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/미스트롯 포유_제6회 26_06_18.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51038.jpg" group-title="예능(다시보기)",서장훈의 이웃집 백만장자 시즌2 제37회 26/06/17
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/서장훈의 이웃집 백만장자 시즌2_제37회 26_06_17.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/40381.jpg" group-title="예능(다시보기)",어서와~ 한국은 처음이지? 제401회 26/06/18
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/어서와~ 한국은 처음이지__제401회 26_06_18.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51699.jpg" group-title="예능(다시보기)",언더커버 셰프 제5회 26/06/18
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/언더커버 셰프_제5회 26_06_18.m3u8
 #EXTINF:-1 group-title="中国电视",更新日期: 2026-7-2 18:23:13
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv1hd265/51/20191230/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260702181844&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=27.148.147.8&SecurityKey=20260702181844&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=b75ef9cca84e2ddd03ba3a1aea6df70b&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1782987520596&prlId=4f89b0f1d885527a227fd4a636419cfe1782987520601&jid=4f89b0f1d885527a227fd4a636419cfe1782987520138V&is_advertise=0&sjid=subsession_1782987552485&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=80524ad00451e798e9b1f9332d979050
 #EXTINF:-1 group-title="中国电视",CCTV1综合
