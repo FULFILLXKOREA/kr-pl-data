@@ -181,6 +181,8 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2
 http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1
 #EXTINF:-1 tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/SBSPLUS.png" group-title="한국-생방송2",SBS PLUS-2
 http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51909.jpg" group-title="영화",데블스 마우스 본편
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/데블스 마우스_본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51898.jpg" group-title="영화",슈퍼걸 본편
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/슈퍼걸_본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51896.jpg" group-title="영화",엘리베이션 본편
@@ -581,6 +583,10 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/클라이맥스_
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/세이렌_제11회 26_04_06.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51394.jpg" group-title="드라마(다시보기)",미혼남녀의 효율적 만남 제11회 26/04/04
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/미혼남녀의 효율적 만남_제11회 26_04_04.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/48875.jpg" group-title="예능(다시보기)",엠카운트다운 M COUNTDOWN 제114회 26/07/30
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/엠카운트다운 M COUNTDOWN_제114회 26_07_30.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51748.jpg" group-title="예능(다시보기)",은밀한 여자들 : 적과의 동거 제9회 26/07/30
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/은밀한 여자들 _ 적과의 동거_제9회 26_07_30.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51908.jpg" group-title="예능(다시보기)",머더클럽 제2회 26/07/30
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/머더클럽_제2회 26_07_30.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51038.jpg" group-title="예능(다시보기)",서장훈의 이웃집 백만장자 시즌2 제43회 26/07/29
@@ -777,10 +783,10 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/피의 게임X_�
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/THE 맛있는 녀석들_제106회 26_07_24.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51768.jpg" group-title="예능(다시보기)",콩콩팜팜 (콩 심은 데 콩 나는 가고팜 하고팜 동물농장) 제6회 26/07/24
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/콩콩팜팜 (콩 심은 데 콩 나는 가고팜 하고팜 동물농장)_제6회 26_07_24.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/42935.jpg" group-title="예능(다시보기)",이십세기 힛-트쏭 제323회 26/07/24
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/이십세기 힛-트쏭_제323회 26_07_24.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/50796.jpg" group-title="예능(다시보기)",뮤직뱅크 2026 제46회 26/07/24
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/뮤직뱅크 2026_제46회 26_07_24.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/48875.jpg" group-title="예능(다시보기)",엠카운트다운 M COUNTDOWN 제113회 26/07/23
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/엠카운트다운 M COUNTDOWN_제113회 26_07_23.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51748.jpg" group-title="예능(다시보기)",은밀한 여자들 : 적과의 동거 제8회 26/07/23
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/은밀한 여자들 _ 적과의 동거_제8회 26_07_23.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51908.jpg" group-title="예능(다시보기)",머더클럽 제1회 26/07/30
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/머더클럽_제1회 26_07_30.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51038.jpg" group-title="예능(다시보기)",서장훈의 이웃집 백만장자 시즌2 제42회 26/07/22
@@ -969,10 +975,6 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/피의 게임X_�
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/THE 맛있는 녀석들_제105회 26_07_17.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51768.jpg" group-title="예능(다시보기)",콩콩팜팜 (콩 심은 데 콩 나는 가고팜 하고팜 동물농장) 제5회 26/07/17
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/콩콩팜팜 (콩 심은 데 콩 나는 가고팜 하고팜 동물농장)_제5회 26_07_17.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/42935.jpg" group-title="예능(다시보기)",이십세기 힛-트쏭 제322회 26/07/17
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/이십세기 힛-트쏭_제322회 26_07_17.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/50796.jpg" group-title="예능(다시보기)",뮤직뱅크 2026 제45회 26/07/17
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/뮤직뱅크 2026_제45회 26_07_17.m3u8
 #EXTINF:-1 group-title="中国电视",更新日期: 2026-7-30 18:10:10
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv1hd265/51/20191230/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260730180001&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=61.243.159.236&SecurityKey=20260730180001&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=68251072114c5e2f95eb7326f723a21a&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1785405596868&prlId=4f89b0f1d885527a227fd4a636419cfe1785405596889&jid=4f89b0f1d885527a227fd4a636419cfe1785405597403V&is_advertise=0&sjid=subsession_1785405631225&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8b855f10b146f0c4b6f790a92e81aab6
 #EXTINF:-1 group-title="中国电视",CCTV1综合
