@@ -90,6 +90,8 @@ SPOTV Prime-2,http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime
 SPOTV Prime 2-2,http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2
 SPOTV Prime 1-2,http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1
 SBS PLUS-2,http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
+72시간 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/72시간_본편.m3u8
+와일드 씽 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/와일드 씽_본편.m3u8
 데블스 마우스 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/데블스 마우스_본편.m3u8
 슈퍼걸 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/슈퍼걸_본편.m3u8
 엘리베이션 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/엘리베이션_본편.m3u8
@@ -188,9 +190,9 @@ SBS PLUS-2,http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
 제네시스: 세상의 소금 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/제네시스_ 세상의 소금_본편.m3u8
 넘버원 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/넘버원_본편.m3u8
 악의 진화 퍼스트레이디2 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/악의 진화 퍼스트레이디2_본편.m3u8
-슈가 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/슈가_본편.m3u8
-파이어브레이크 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/파이어브레이크_본편.m3u8
 스크림 스크림6,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/스크림_스크림6.m3u8
+김부장 최종회 26/07/25,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/김부장_최종회 26_07_25.m3u8
+유부녀 킬러 제1회 26/07/31,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/유부녀 킬러_제1회 26_07_31.m3u8
 기쁜 우리 좋은 날 제88회 26/07/31,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/기쁜 우리 좋은 날_제88회 26_07_31.m3u8
 가족관계증명서 제20회 26/07/31,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/가족관계증명서_제20회 26_07_31.m3u8
 붉은 진주 제97회 26/07/31,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/붉은 진주_제97회 26_07_31.m3u8
@@ -205,7 +207,6 @@ SBS PLUS-2,http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
 오싹한 연애 제4회 26/07/26,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/오싹한 연애_제4회 26_07_26.m3u8
 아파트 제6회 26/07/26,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/아파트_제6회 26_07_26.m3u8
 결혼의 완성 제8회 26/07/26,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/결혼의 완성_제8회 26_07_26.m3u8
-김부장 최종회 26/07/25,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/김부장_최종회 26_07_25.m3u8
 사랑을 처방해 드립니다 제50회 26/07/19,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/사랑을 처방해 드립니다_제50회 26_07_19.m3u8
 동궁 최종회 26/07/18,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/동궁_최종회 26_07_18.m3u8
 삼도천 택시 최종회 26/07/08,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/삼도천 택시_최종회 26_07_08.m3u8
@@ -240,7 +241,7 @@ SBS PLUS-2,http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
 대한민국에서 건물주 되는 법 최종회 26/04/19,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/대한민국에서 건물주 되는 법_최종회 26_04_19.m3u8
 클라이맥스 최종회 26/04/14,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/클라이맥스_최종회 26_04_14.m3u8
 세이렌 최종회 26/04/07,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/세이렌_최종회 26_04_07.m3u8
-미혼남녀의 효율적 만남 최종회 26/04/05,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/미혼남녀의 효율적 만남_최종회 26_04_05.m3u8
+김부장 제9회 26/07/24,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/김부장_제9회 26_07_24.m3u8
 기쁜 우리 좋은 날 제87회 26/07/30,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/기쁜 우리 좋은 날_제87회 26_07_30.m3u8
 가족관계증명서 제19회 26/07/30,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/가족관계증명서_제19회 26_07_30.m3u8
 붉은 진주 제96회 26/07/30,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/붉은 진주_제96회 26_07_30.m3u8
@@ -255,7 +256,6 @@ SBS PLUS-2,http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
 오싹한 연애 제3회 26/07/25,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/오싹한 연애_제3회 26_07_25.m3u8
 아파트 제5회 26/07/25,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/아파트_제5회 26_07_25.m3u8
 결혼의 완성 제7회 26/07/25,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/결혼의 완성_제7회 26_07_25.m3u8
-김부장 제9회 26/07/24,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/김부장_제9회 26_07_24.m3u8
 사랑을 처방해 드립니다 제49회 26/07/18,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/사랑을 처방해 드립니다_제49회 26_07_18.m3u8
 동궁 제7회 26/07/18,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/동궁_제7회 26_07_18.m3u8
 삼도천 택시 제4회 26/07/02,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/삼도천 택시_제4회 26_07_02.m3u8
@@ -290,9 +290,14 @@ SBS PLUS-2,http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
 대한민국에서 건물주 되는 법 제11회 26/04/18,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/대한민국에서 건물주 되는 법_제11회 26_04_18.m3u8
 클라이맥스 제9회 26/04/13,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/클라이맥스_제9회 26_04_13.m3u8
 세이렌 제11회 26/04/06,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/세이렌_제11회 26_04_06.m3u8
-미혼남녀의 효율적 만남 제11회 26/04/04,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/미혼남녀의 효율적 만남_제11회 26_04_04.m3u8
+스탠바이미 제13회 26/07/31,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/스탠바이미_제13회 26_07_31.m3u8
+THE 맛있는 녀석들 제107회 26/07/31,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/THE 맛있는 녀석들_제107회 26_07_31.m3u8
+이십세기 힛-트쏭 제324회 26/07/31,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/이십세기 힛-트쏭_제324회 26_07_31.m3u8
+피의 게임X 제6회 26/07/31,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/피의 게임X_제6회 26_07_31.m3u8
+우주떡집 제1회 26/07/31,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/우주떡집_제1회 26_07_31.m3u8
+신랑수업2 제20회 26/07/31,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/신랑수업2_제20회 26_07_31.m3u8
+전현무계획4 제5회 26/07/31,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/전현무계획4_제5회 26_07_31.m3u8
 귀신 잡는 해병대 제1회 26/07/31,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/귀신 잡는 해병대_제1회 26_07_31.m3u8
-스탠바이미 제11회 26/07/25,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/스탠바이미_제11회 26_07_25.m3u8
 뮤직뱅크 2026 제47회 26/07/31,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/뮤직뱅크 2026_제47회 26_07_31.m3u8
 꼬리에 꼬리를 무는 이야기 시즌3 제235회 26/07/30,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/꼬리에 꼬리를 무는 이야기 시즌3_제235회 26_07_30.m3u8
 자식방생프로젝트 합숙 맞선2 제6회 26/07/30,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/자식방생프로젝트 합숙 맞선2_제6회 26_07_30.m3u8
@@ -385,13 +390,12 @@ TV 동물농장 제436회 26/07/26,https://file-1253962976.cos.ap-nanjing.myqclo
 살림하는 남자들 시즌2 제421회 26/07/25,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/살림하는 남자들 시즌2_제421회 26_07_25.m3u8
 불후의 명곡 제737회 26/07/25,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/불후의 명곡_제737회 26_07_25.m3u8
 놀면 뭐하니? 제353회 26/07/25,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/놀면 뭐하니__제353회 26_07_25.m3u8
-강철지구 제88회 26/07/25,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/강철지구_제88회 26_07_25.m3u8
-놀라운 토요일 제433회 26/07/25,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/놀라운 토요일_제433회 26_07_25.m3u8
-라면꼰대 프렌즈 제4회 26/07/25,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/라면꼰대 프렌즈_제4회 26_07_25.m3u8
-쯔양몇끼 최종회 26/07/25,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/쯔양몇끼_최종회 26_07_25.m3u8
-접속! 무비월드 제25회 26/07/25,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/접속! 무비월드_제25회 26_07_25.m3u8
-차트를 달리는 남자 2026 제27회 26/07/25,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/차트를 달리는 남자 2026_제27회 26_07_25.m3u8
-스탠바이미 제10회 26/07/25,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/스탠바이미_제10회 26_07_25.m3u8
+스탠바이미 제12회 26/07/31,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/스탠바이미_제12회 26_07_31.m3u8
+THE 맛있는 녀석들 제106회 26/07/24,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/THE 맛있는 녀석들_제106회 26_07_24.m3u8
+이십세기 힛-트쏭 제323회 26/07/24,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/이십세기 힛-트쏭_제323회 26_07_24.m3u8
+피의 게임X 제5회 26/07/24,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/피의 게임X_제5회 26_07_24.m3u8
+신랑수업2 제19회 26/07/24,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/신랑수업2_제19회 26_07_24.m3u8
+전현무계획4 제4회 26/07/24,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/전현무계획4_제4회 26_07_24.m3u8
 뮤직뱅크 2026 제46회 26/07/24,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/뮤직뱅크 2026_제46회 26_07_24.m3u8
 꼬리에 꼬리를 무는 이야기 시즌3 제234회 26/07/23,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/꼬리에 꼬리를 무는 이야기 시즌3_제234회 26_07_23.m3u8
 자식방생프로젝트 합숙 맞선2 제5회 26/07/23,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/자식방생프로젝트 합숙 맞선2_제5회 26_07_23.m3u8
@@ -479,12 +483,6 @@ TV 동물농장 제435회 26/07/19,https://file-1253962976.cos.ap-nanjing.myqclo
 살림하는 남자들 시즌2 제420회 26/07/18,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/살림하는 남자들 시즌2_제420회 26_07_18.m3u8
 불후의 명곡 제736회 26/07/18,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/불후의 명곡_제736회 26_07_18.m3u8
 놀면 뭐하니? 제352회 26/07/18,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/놀면 뭐하니__제352회 26_07_18.m3u8
-강철지구 제87회 26/07/18,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/강철지구_제87회 26_07_18.m3u8
-놀라운 토요일 제432회 26/07/18,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/놀라운 토요일_제432회 26_07_18.m3u8
-라면꼰대 프렌즈 제3회 26/07/18,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/라면꼰대 프렌즈_제3회 26_07_18.m3u8
-쯔양몇끼 제8회 26/07/18,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/쯔양몇끼_제8회 26_07_18.m3u8
-접속! 무비월드 제24회 26/07/18,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/접속! 무비월드_제24회 26_07_18.m3u8
-차트를 달리는 남자 2026 제26회 26/07/18,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/차트를 달리는 남자 2026_제26회 26_07_18.m3u8
 更新日期: 2026-7-31 18:08:20,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=93095ca3c1f0099166d9d1fa754d68a5&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260731180010&Channel_ID=0116_2600034600-99000-201600010031518&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=36.134.66.173&SecurityKey=20260731180010&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4ba3a9d182d941a7f08ac785045fc2db&sv=10004&ct=android
 CCTV1综合,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=93095ca3c1f0099166d9d1fa754d68a5&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260731180010&Channel_ID=0116_2600034600-99000-201600010031518&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=36.134.66.173&SecurityKey=20260731180010&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4ba3a9d182d941a7f08ac785045fc2db&sv=10004&ct=android
 CCTV3综艺,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=6b7f47b0379681ddf169ef6b6d2d94a5&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20260731174600&Channel_ID=0116_2600034600-99000-201600010099142&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=139.215.106.207&SecurityKey=20260731174600&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2b43d8a6a5dac360c41e28ed2b5254f3&sv=10004&ct=android
