@@ -90,6 +90,7 @@ SPOTV Prime-2,http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime
 SPOTV Prime 2-2,http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2
 SPOTV Prime 1-2,http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1
 SBS PLUS-2,http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
+라스트 하우스 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/라스트 하우스_본편.m3u8
 사랑이 지나간 자리 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/사랑이 지나간 자리_본편.m3u8
 눈동자 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/눈동자_본편.m3u8
 이상한 과자 가게 전천당 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/이상한 과자 가게 전천당_본편.m3u8
@@ -189,7 +190,6 @@ SBS PLUS-2,http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
 콜드 미트 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/콜드 미트_본편.m3u8
 스크림 7 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/스크림 7_본편.m3u8
 끝이 없는 스칼렛 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/끝이 없는 스칼렛_본편.m3u8
-씨너스: 죄인들 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/씨너스_ 죄인들_본편.m3u8
 스크림 스크림6,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/스크림_스크림6.m3u8
 아파트 제9회 26/08/08,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/아파트_제9회 26_08_08.m3u8
 결혼의 완성 제11회 26/08/08,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/결혼의 완성_제11회 26_08_08.m3u8
@@ -291,6 +291,8 @@ SBS PLUS-2,http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
 유미의 세포들 시즌3 제7회 26/05/04,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/유미의 세포들 시즌3_제7회 26_05_04.m3u8
 닥터신 제15회 26/05/02,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/닥터신_제15회 26_05_02.m3u8
 모나크: 레거시 오브 몬스터즈 시즌2 제9회 26/04/24,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/모나크_ 레거시 오브 몬스터즈 시즌2_제9회 26_04_24.m3u8
+전지적 참견 시점 제413회 26/08/08,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/전지적 참견 시점_제413회 26_08_08.m3u8
+속풀이쇼 동치미 제69회 26/08/08,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/속풀이쇼 동치미_제69회 26_08_08.m3u8
 끝까지 간다 독박투어 제10회 26/08/08,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/끝까지 간다 독박투어_제10회 26_08_08.m3u8
 아는 형님 제227회 26/08/08,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/아는 형님_제227회 26_08_08.m3u8
 김주하의 데이앤나잇 제38회 26/08/08,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/김주하의 데이앤나잇_제38회 26_08_08.m3u8
@@ -389,8 +391,8 @@ THE 맛있는 녀석들 제108회 26/08/07,https://file-1253962976.cos.ap-nanjin
 1박 2일 시즌4 제341회 26/08/02,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/1박 2일 시즌4_제341회 26_08_02.m3u8
 엑스 더 리그 제1회 26/08/02,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/엑스 더 리그_제1회 26_08_02.m3u8
 스트릿 레스토랑 파이터 제7회 26/08/02,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/스트릿 레스토랑 파이터_제7회 26_08_02.m3u8
-TV 동물농장 제437회 26/08/02,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/TV 동물농장_제437회 26_08_02.m3u8
-서프라이즈 미스터리 살롱 제27회 26/08/02,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/서프라이즈 미스터리 살롱_제27회 26_08_02.m3u8
+전지적 참견 시점 제412회 26/08/01,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/전지적 참견 시점_제412회 26_08_01.m3u8
+속풀이쇼 동치미 제68회 26/08/01,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/속풀이쇼 동치미_제68회 26_08_01.m3u8
 끝까지 간다 독박투어 제9회 26/08/01,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/끝까지 간다 독박투어_제9회 26_08_01.m3u8
 아는 형님 제226회 26/08/01,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/아는 형님_제226회 26_08_01.m3u8
 김주하의 데이앤나잇 제37회 26/08/01,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/김주하의 데이앤나잇_제37회 26_08_01.m3u8
@@ -483,8 +485,6 @@ THE 맛있는 녀석들 제107회 26/07/31,https://file-1253962976.cos.ap-nanjin
 사장님 귀는 당나귀 귀 제370회 26/07/26,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/사장님 귀는 당나귀 귀_제370회 26_07_26.m3u8
 1박 2일 시즌4 제340회 26/07/26,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/1박 2일 시즌4_제340회 26_07_26.m3u8
 스트릿 레스토랑 파이터 제6회 26/07/26,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/스트릿 레스토랑 파이터_제6회 26_07_26.m3u8
-TV 동물농장 제436회 26/07/26,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/TV 동물농장_제436회 26_07_26.m3u8
-서프라이즈 미스터리 살롱 제26회 26/07/26,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/서프라이즈 미스터리 살롱_제26회 26_07_26.m3u8
 更新日期: 2026-8-8 22:39:44,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV6电影,http://txycdn1.video.qq.com/1755771402.m3u8?time=1786157841&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIPjTq9_PzXItQu89ukTvNJWUEvmQb271FUc880_oZioZEJy6YTCteaodTn6iz7oRARYBcPTVkaqw1z7zBaLiLwGZYqhdOavG_IbxEYE6M7gxnWY6UKXXfwLfCY4Gg9YYv2lbOAA_u1E3TOAN-648Jv6gM5I9GiTC6G2fFtx1ck2zl16Wy9fVw_YBeZSS6Q4xo8AisDPZMdPB8a2OlC86P8mbLW4-aCk1P0a4TTCepqVgNy15jrIdo6ObfsDBkygfsLxIvGQw42Qht2mjUAqO6PIinGg2lYhdkBOWCT1n0Bvlm2eJU-cDz6uVdLlIzMIOZrf7aKAnDCeRdp8OYcboDQdw12uxv0Y0bzMyxGPAL22YBbcGcmyChJ4X7YzmawW4BMUUFlm7ve7VkyVDjaT_6GM8c19XP_wYA9J_boYmFelP5im1h8-0EmT5iYqZH9Kjn36eQlYta-gVb1ToBTNYF2WAZb4lfTe1VijvSH-DLwVs9rtKDslAvQJmpzdMRKSA48zriNB6cO0sTcnL92Ha_s6eumQJ7cFP2fRxCkKRSBq3jGJo&drmtype=0
