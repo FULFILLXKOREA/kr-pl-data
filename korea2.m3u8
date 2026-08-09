@@ -181,6 +181,8 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2
 http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1
 #EXTINF:-1 tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/SBSPLUS.png" group-title="한국-생방송2",SBS PLUS-2
 http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51943.jpg" group-title="영화",왓 맨 원트 본편
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/왓 맨 원트_본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51942.jpg" group-title="영화",라스트 하우스 본편
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/라스트 하우스_본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51941.jpg" group-title="영화",사랑이 지나간 자리 본편
@@ -379,8 +381,6 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/기차의 꿈_�
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/콜드 미트_본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51509.jpg" group-title="영화",스크림 7 본편
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/스크림 7_본편.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51507.jpg" group-title="영화",끝이 없는 스칼렛 본편
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/끝이 없는 스칼렛_본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/46562.jpg" group-title="영화",스크림 스크림6
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/스크림_스크림6.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51767.jpg" group-title="드라마(다시보기)",아파트 제9회 26/08/08
