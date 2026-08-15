@@ -90,6 +90,8 @@ SPOTV Prime-2,http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime
 SPOTV Prime 2-2,http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2
 SPOTV Prime 1-2,http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1
 SBS PLUS-2,http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
+밀월 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/밀월_본편.m3u8
+미니언즈 & 몬스터즈 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/미니언즈 & 몬스터즈_본편.m3u8
 뉴 뮤턴트: 인피니티 프로젝트 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/뉴 뮤턴트_ 인피니티 프로젝트_본편.m3u8
 왓 맨 원트 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/왓 맨 원트_본편.m3u8
 라스트 하우스 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/라스트 하우스_본편.m3u8
@@ -188,9 +190,8 @@ SBS PLUS-2,http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
 폭격 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/폭격_본편.m3u8
 슬라이드 스트럼 뮤트 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/슬라이드 스트럼 뮤트_본편.m3u8
 하루 또 하루 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/하루 또 하루_본편.m3u8
-기차의 꿈 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/기차의 꿈_본편.m3u8
-콜드 미트 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/콜드 미트_본편.m3u8
 스크림 스크림6,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/스크림_스크림6.m3u8
+사랑이 온다 제7회 26/08/15,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/사랑이 온다_제7회 26_08_15.m3u8
 재벌X형사 2 제3회 26/08/14,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/재벌X형사 2_제3회 26_08_14.m3u8
 유부녀 킬러 제5회 26/08/14,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/유부녀 킬러_제5회 26_08_14.m3u8
 지금 불륜이 문제가 아닙니다 제5회 26/08/14,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/지금 불륜이 문제가 아닙니다_제5회 26_08_14.m3u8
@@ -205,7 +206,6 @@ SBS PLUS-2,http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
 결혼의 완성 최종회 26/08/10,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/결혼의 완성_최종회 26_08_10.m3u8
 아파트 제10회 26/08/09,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/아파트_제10회 26_08_09.m3u8
 오싹한 연애 제8회 26/08/09,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/오싹한 연애_제8회 26_08_09.m3u8
-사랑이 온다 제6회 26/08/09,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/사랑이 온다_제6회 26_08_09.m3u8
 이런 엿같은 사랑 최종회 26/08/08,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/이런 엿같은 사랑_최종회 26_08_08.m3u8
 검사실의 제안 최종회 26/08/02,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/검사실의 제안_최종회 26_08_02.m3u8
 김부장 최종회 26/07/25,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/김부장_최종회 26_07_25.m3u8
@@ -241,6 +241,7 @@ SBS PLUS-2,http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
 리버스 최종회 26/05/08,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/리버스_최종회 26_05_08.m3u8
 유미의 세포들 시즌3 최종회 26/05/04,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/유미의 세포들 시즌3_최종회 26_05_04.m3u8
 닥터신 최종회 26/05/03,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/닥터신_최종회 26_05_03.m3u8
+사랑이 온다 제6회 26/08/09,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/사랑이 온다_제6회 26_08_09.m3u8
 재벌X형사 2 제2회 26/08/08,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/재벌X형사 2_제2회 26_08_08.m3u8
 유부녀 킬러 제4회 26/08/08,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/유부녀 킬러_제4회 26_08_08.m3u8
 지금 불륜이 문제가 아닙니다 제4회 26/08/12,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/지금 불륜이 문제가 아닙니다_제4회 26_08_12.m3u8
@@ -255,7 +256,6 @@ SBS PLUS-2,http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
 결혼의 완성 제11회 26/08/08,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/결혼의 완성_제11회 26_08_08.m3u8
 아파트 제9회 26/08/08,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/아파트_제9회 26_08_08.m3u8
 오싹한 연애 제7회 26/08/08,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/오싹한 연애_제7회 26_08_08.m3u8
-사랑이 온다 제5회 26/08/08,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/사랑이 온다_제5회 26_08_08.m3u8
 이런 엿같은 사랑 제11회 26/08/08,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/이런 엿같은 사랑_제11회 26_08_08.m3u8
 검사실의 제안 제9회 26/08/02,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/검사실의 제안_제9회 26_08_02.m3u8
 김부장 제9회 26/07/24,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/김부장_제9회 26_07_24.m3u8
@@ -291,6 +291,7 @@ SBS PLUS-2,http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
 리버스 제7회 26/05/08,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/리버스_제7회 26_05_08.m3u8
 유미의 세포들 시즌3 제7회 26/05/04,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/유미의 세포들 시즌3_제7회 26_05_04.m3u8
 닥터신 제15회 26/05/02,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/닥터신_제15회 26_05_02.m3u8
+짐쌀라비움 제3회 26/08/15,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/짐쌀라비움_제3회 26_08_15.m3u8
 쇼! 음악중심 제380회 26/08/15,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/쇼! 음악중심_제380회 26_08_15.m3u8
 우리동네 전성시대 제2회 26/08/15,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/우리동네 전성시대_제2회 26_08_15.m3u8
 금타는 금요일 제34회 26/08/14,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/금타는 금요일_제34회 26_08_14.m3u8
@@ -486,7 +487,6 @@ TV 동물농장 제437회 26/08/02,https://file-1253962976.cos.ap-nanjing.myqclo
 불후의 명곡 제738회 26/08/01,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/불후의 명곡_제738회 26_08_01.m3u8
 라면꼰대 프렌즈 제5회 26/08/01,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/라면꼰대 프렌즈_제5회 26_08_01.m3u8
 놀라운 토요일 제434회 26/08/01,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/놀라운 토요일_제434회 26_08_01.m3u8
-짐쌀라비움 제1회 26/08/01,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/짐쌀라비움_제1회 26_08_01.m3u8
 延边卫视频道,https://srs.iyb983.cn/video/CYS/index.m3u8
 YBTV-1 朝鲜语综合频道,https://srs.iyb983.cn/video/ybtv1/index.m3u8
 YBTV-2 汉语综合频道,https://srs.iyb983.cn/video/ybtv2/index.m3u8
