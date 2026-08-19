@@ -181,6 +181,8 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2
 http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1
 #EXTINF:-1 tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/SBSPLUS.png" group-title="한국-생방송2",SBS PLUS-2
 http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/39808.jpg" group-title="영화",행오버 3 본편
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/행오버 3_본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51960.jpg" group-title="영화",레이드 2 본편
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/레이드 2_본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51961.jpg" group-title="영화",레이드 : 첫번째 습격 본편
@@ -379,10 +381,10 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/아바타_ 불�
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/휴민트_본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/46562.jpg" group-title="영화",스크림 스크림7
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/스크림_스크림7.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51537.jpg" group-title="영화",폭격 본편
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/폭격_본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/46562.jpg" group-title="영화",스크림 스크림6
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/스크림_스크림6.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51551.jpg" group-title="드라마(다시보기)",기쁜 우리 좋은 날 제101회 26/08/19
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/기쁜 우리 좋은 날_제101회 26_08_19.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51816.jpg" group-title="드라마(다시보기)",가족관계증명서 제33회 26/08/19
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/가족관계증명서_제33회 26_08_19.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51899.jpg" group-title="드라마(다시보기)",욕망의 덫 제8회 26/08/19
@@ -393,8 +395,6 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/한반도-격동
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/그대에게 드림_최종회 26_08_18.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51867.jpg" group-title="드라마(다시보기)",최애의 사원 제6회 26/08/18
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/최애의 사원_제6회 26_08_18.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51551.jpg" group-title="드라마(다시보기)",기쁜 우리 좋은 날 제100회 26/08/18
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/기쁜 우리 좋은 날_제100회 26_08_18.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51767.jpg" group-title="드라마(다시보기)",아파트 최종회 26/08/16
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/아파트_최종회 26_08_16.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51817.jpg" group-title="드라마(다시보기)",오싹한 연애 제10회 26/08/16
@@ -483,6 +483,8 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/리버스_최종
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/유미의 세포들 시즌3_최종회 26_05_04.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51467.jpg" group-title="드라마(다시보기)",닥터신 최종회 26/05/03
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/닥터신_최종회 26_05_03.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51551.jpg" group-title="드라마(다시보기)",기쁜 우리 좋은 날 제100회 26/08/18
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/기쁜 우리 좋은 날_제100회 26_08_18.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51816.jpg" group-title="드라마(다시보기)",가족관계증명서 제32회 26/08/18
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/가족관계증명서_제32회 26_08_18.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51899.jpg" group-title="드라마(다시보기)",욕망의 덫 제7회 26/08/18
@@ -493,8 +495,6 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/한반도-격동
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/그대에게 드림_제11회 26_08_17.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51867.jpg" group-title="드라마(다시보기)",최애의 사원 제5회 26/08/17
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/최애의 사원_제5회 26_08_17.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51551.jpg" group-title="드라마(다시보기)",기쁜 우리 좋은 날 제99회 26/08/17
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/기쁜 우리 좋은 날_제99회 26_08_17.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51767.jpg" group-title="드라마(다시보기)",아파트 제11회 26/08/15
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/아파트_제11회 26_08_15.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51817.jpg" group-title="드라마(다시보기)",오싹한 연애 제9회 26/08/15
