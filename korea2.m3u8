@@ -181,6 +181,8 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2
 http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1
 #EXTINF:-1 tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/SBSPLUS.png" group-title="한국-생방송2",SBS PLUS-2
 http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51969.jpg" group-title="영화",엠티맨 본편
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/엠티맨_본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51964.jpg" group-title="영화",오디티 본편
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/오디티_본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/39808.jpg" group-title="영화",행오버 3 본편
@@ -379,8 +381,6 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/워 머신_ 전�
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/명탐정 코난_ 100만 달러의 펜타그램_본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51554.jpg" group-title="영화",아바타: 불과 재 본편
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/아바타_ 불과 재_본편.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51558.jpg" group-title="영화",휴민트 본편
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/휴민트_본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51900.jpg" group-title="드라마(다시보기)",신병4 : 사보타주 제1회 26/08/24
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/신병4 _ 사보타주_제1회 26_08_24.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51867.jpg" group-title="드라마(다시보기)",최애의 사원 제7회 26/08/24
