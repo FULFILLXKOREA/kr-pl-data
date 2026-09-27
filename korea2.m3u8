@@ -181,6 +181,8 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2
 http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1
 #EXTINF:-1 tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/SBSPLUS.png" group-title="한국-생방송2",SBS PLUS-2
 http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52060.jpg" group-title="영화",레지던트 이블: 0번째 밤 본편
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/레지던트 이블_ 0번째 밤_본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52058.jpg" group-title="영화",사랑의 가설 본편
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/사랑의 가설_본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52053.jpg" group-title="영화",연옥: 살인마들의 자치구역 본편
@@ -379,14 +381,12 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/데이 윌 킬 �
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/초속 5센티미터_본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51641.jpg" group-title="영화",고독한 미식가 더 무비 본편
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/고독한 미식가 더 무비_본편.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51628.jpg" group-title="영화",도쿄 괴담: 두 번째 역 본편
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/도쿄 괴담_ 두 번째 역_본편.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52002.jpg" group-title="드라마(다시보기)",너에게 다이브 제2회 26/09/27
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/너에게 다이브_제2회 26_09_27.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52039.jpg" group-title="드라마(다시보기)",날아올라라 나비 제4회 26/09/27
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/날아올라라 나비_제4회 26_09_27.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51869.jpg" group-title="드라마(다시보기)",포핸즈 제10회 26/09/27
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/포핸즈_제10회 26_09_27.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52039.jpg" group-title="드라마(다시보기)",날아올라라 나비 제3회 26/09/26
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/날아올라라 나비_제3회 26_09_26.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52002.jpg" group-title="드라마(다시보기)",너에게 다이브 제1회 26/09/26
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/너에게 다이브_제1회 26_09_26.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52035.jpg" group-title="드라마(다시보기)",하절기 최종회 26/09/26
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/하절기_최종회 26_09_26.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51926.jpg" group-title="드라마(다시보기)",그래, 이혼하자 최종회 26/09/25
@@ -481,10 +481,12 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/은밀한 감사
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/로맨스의 절댓값_최종회 26_05_29.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51732.jpg" group-title="드라마(다시보기)",신의 최종회 26/05/28
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/신의_최종회 26_05_28.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52002.jpg" group-title="드라마(다시보기)",너에게 다이브 제1회 26/09/26
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/너에게 다이브_제1회 26_09_26.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52039.jpg" group-title="드라마(다시보기)",날아올라라 나비 제3회 26/09/26
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/날아올라라 나비_제3회 26_09_26.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51869.jpg" group-title="드라마(다시보기)",포핸즈 제9회 26/09/26
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/포핸즈_제9회 26_09_26.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52039.jpg" group-title="드라마(다시보기)",날아올라라 나비 제2회 26/09/21
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/날아올라라 나비_제2회 26_09_21.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52035.jpg" group-title="드라마(다시보기)",하절기 제9회 26/09/26
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/하절기_제9회 26_09_26.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51926.jpg" group-title="드라마(다시보기)",그래, 이혼하자 제11회 26/09/23
@@ -577,6 +579,16 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/은밀한 감사
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/로맨스의 절댓값_제15회 26_05_29.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51732.jpg" group-title="드라마(다시보기)",신의 제23회 26/05/28
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/신의_제23회 26_05_28.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52062.jpg" group-title="예능(다시보기)",니돈내산 제1회 26/09/27
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/니돈내산_제1회 26_09_27.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/50520.jpg" group-title="예능(다시보기)",인생이 영화 제48회 26/09/27
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/인생이 영화_제48회 26_09_27.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52006.jpg" group-title="예능(다시보기)",식스센스: B사이드 제3회 26/09/27
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/식스센스_ B사이드_제3회 26_09_27.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/50080.jpg" group-title="예능(다시보기)",냉장고를 부탁해 since 2014 제91회 26/09/27
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/냉장고를 부탁해 since 2014_제91회 26_09_27.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52008.jpg" group-title="예능(다시보기)",디스이즈 현무로드 제2회 26/09/27
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/디스이즈 현무로드_제2회 26_09_27.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/37682.jpg" group-title="예능(다시보기)",살림하는 남자들 시즌2 제430회 26/09/26
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/살림하는 남자들 시즌2_제430회 26_09_26.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/49454.jpg" group-title="예능(다시보기)",강철지구 제96회 26/09/26
@@ -625,8 +637,6 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/더 커뮤니티
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/2026 아이치 나고야 아시안게임_D조 예선, 대한민국vs카타르.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52010.jpg" group-title="예능(다시보기)",당신의 삶은 네버엔딩 스토리 - 이승철 제3회 26/09/24
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/당신의 삶은 네버엔딩 스토리 - 이승철_제3회 26_09_24.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/50080.jpg" group-title="예능(다시보기)",냉장고를 부탁해 since 2014 제89회 26/09/20
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/냉장고를 부탁해 since 2014_제89회 26_09_20.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/40381.jpg" group-title="예능(다시보기)",어서와~ 한국은 처음이지? 제415회 26/09/24
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/어서와~ 한국은 처음이지__제415회 26_09_24.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51748.jpg" group-title="예능(다시보기)",은밀한 여자들 : 적과의 동거 제17회 26/09/25
@@ -713,14 +723,10 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/원더픽_제1�
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/이현우의 체크인 콘서트_제3회 26_09_20.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51045.jpg" group-title="예능(다시보기)",형수다2(형사들의 수다) 제27회 26/09/20
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/형수다2(형사들의 수다)_제27회 26_09_20.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52006.jpg" group-title="예능(다시보기)",식스센스: B사이드 제2회 26/09/20
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/식스센스_ B사이드_제2회 26_09_20.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51925.jpg" group-title="예능(다시보기)",엑스 더 리그 최종회 26/09/20
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/엑스 더 리그_최종회 26_09_20.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/28170.jpg" group-title="예능(다시보기)",이제 만나러 갑니다 제660회 26/09/20
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/이제 만나러 갑니다_제660회 26_09_20.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52008.jpg" group-title="예능(다시보기)",디스이즈 현무로드 제1회 26/09/21
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/디스이즈 현무로드_제1회 26_09_21.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/48645.jpg" group-title="예능(다시보기)",개그 콘서트 제140회 26/09/21
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/개그 콘서트_제140회 26_09_21.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/27472.jpg" group-title="예능(다시보기)",불후의 명곡 제745회 26/09/19
@@ -773,10 +779,14 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/톡파원 25시_
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/황신혜의 같이 삽시다_제36회 26_09_16.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/49287.jpg" group-title="예능(다시보기)",틈만나면, 제58회 26/09/16
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/틈만나면,_제58회 26_09_16.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52023.jpg" group-title="예능(다시보기)",78회 에미상 제3회 26/09/16
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/78회 에미상_제3회 26_09_16.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52010.jpg" group-title="예능(다시보기)",네버엔딩 이승철 제1회 26/09/16
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/네버엔딩 이승철_제1회 26_09_16.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/50520.jpg" group-title="예능(다시보기)",인생이 영화 제47회 26/09/13
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/인생이 영화_제47회 26_09_13.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52006.jpg" group-title="예능(다시보기)",식스센스: B사이드 제2회 26/09/20
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/식스센스_ B사이드_제2회 26_09_20.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/50080.jpg" group-title="예능(다시보기)",냉장고를 부탁해 since 2014 제89회 26/09/20
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/냉장고를 부탁해 since 2014_제89회 26_09_20.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52008.jpg" group-title="예능(다시보기)",디스이즈 현무로드 제1회 26/09/21
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/디스이즈 현무로드_제1회 26_09_21.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/37682.jpg" group-title="예능(다시보기)",살림하는 남자들 시즌2 제429회 26/09/20
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/살림하는 남자들 시즌2_제429회 26_09_20.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/49454.jpg" group-title="예능(다시보기)",강철지구 제95회 26/09/19
@@ -823,8 +833,6 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/더 커뮤니티
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/2026 아이치 나고야 아시안게임_B조 조별 리그,대한민국 Vs 타이완.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52010.jpg" group-title="예능(다시보기)",당신의 삶은 네버엔딩 스토리 - 이승철 제2회 26/09/24
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/당신의 삶은 네버엔딩 스토리 - 이승철_제2회 26_09_24.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/50080.jpg" group-title="예능(다시보기)",냉장고를 부탁해 since 2014 제88회 26/09/13
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/냉장고를 부탁해 since 2014_제88회 26_09_13.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/40381.jpg" group-title="예능(다시보기)",어서와~ 한국은 처음이지? 제414회 26/09/17
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/어서와~ 한국은 처음이지__제414회 26_09_17.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51748.jpg" group-title="예능(다시보기)",은밀한 여자들 : 적과의 동거 제16회 26/09/17
@@ -905,8 +913,6 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/무엇이든 물
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/이현우의 체크인 콘서트_제2회 26_09_14.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51045.jpg" group-title="예능(다시보기)",형수다2(형사들의 수다) 제26회 26/09/06
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/형수다2(형사들의 수다)_제26회 26_09_06.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52006.jpg" group-title="예능(다시보기)",식스센스: B사이드 제1회 26/09/13
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/식스센스_ B사이드_제1회 26_09_13.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51925.jpg" group-title="예능(다시보기)",엑스 더 리그 제7회 26/09/13
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/엑스 더 리그_제7회 26_09_13.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/28170.jpg" group-title="예능(다시보기)",이제 만나러 갑니다 제659회 26/09/13
@@ -961,8 +967,6 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/톡파원 25시_
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/황신혜의 같이 삽시다_제35회 26_09_09.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/49287.jpg" group-title="예능(다시보기)",틈만나면, 제57회 26/09/08
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/틈만나면,_제57회 26_09_08.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52023.jpg" group-title="예능(다시보기)",78회 에미상 제2회 26/09/16
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/78회 에미상_제2회 26_09_16.m3u8
 #EXTINF:-1 tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86.png" group-title="연변방송",延边卫视频道
 https://srs.iyb983.cn/video/CYS/index.m3u8
 #EXTINF:-1 tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/YBTV-1%E6%9C%9D%E9%B2%9C%E8%AF%AD.png" group-title="연변방송",YBTV-1 朝鲜语综合频道
