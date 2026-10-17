@@ -1,8 +1,8 @@
 #EXTM3U
-KBS1,http://43.164.132.11/kakaotv/get_channel.php?channel=kbs1
-KBS2,http://43.164.132.11/kakaotv/get_channel.php?channel=kbs2
-SBS,http://43.164.132.11/kakaotv/get_channel.php?channel=sbs
-MBC,http://43.164.132.11/kakaotv/get_channel.php?channel=mbc
+KBS1,http://218.98.50.141:8088/live/KBS1.m3u8
+KBS2,http://218.98.50.141:8088/live/KBS2.m3u8
+SBS,http://218.98.50.141:8088/live/SBS.m3u8
+MBC,http://218.98.50.141:8088/live/MBC.m3u8
 KBSWorld,http://koreatv.dothome.co.kr/kbsworld.php
 KBSStory,http://koreatv.dothome.co.kr/kbsstory.php
 KBSLife,http://koreatv.dothome.co.kr/kbslife.php
@@ -43,10 +43,10 @@ LIFETIME,https://tving-live-o2-xcdn.tving.com/o2/v1/019d668fbfde153d786553381d0d
 나는 자연인이다,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_262_03C4258B.m3u8
 도시어부,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_261_3638405F.m3u8
 백반기행,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_269_96C359FF.m3u8
-KBS-2,http://113.207.105.246:8088/live/KBS1.m3u8
-KBS2-2,http://113.207.49.20:8088/live/KBS2.m3u8
-SBS-2,http://113.207.49.20:8088/live/SBS.m3u8
-MBC-2,http://113.207.105.246:8088/live/MBC.m3u8
+KBS-2,http://43.164.132.11/kakaotv/get_channel.php?channel=kbs1
+KBS2-2,http://43.164.132.11/kakaotv/get_channel.php?channel=kbs2
+SBS-2,http://43.164.132.11/kakaotv/get_channel.php?channel=sbs
+MBC-2,http://43.164.132.11/kakaotv/get_channel.php?channel=mbc
 JTBC-2,http://218.98.50.141:8088/live/JTBC.m3u8
 TV조선-2,http://124.222.153.240/kakaotv/get_channel.php?channel=tvchosun
 MBN-2,http://124.222.153.240/kakaotv/get_channel.php?channel=mbn
@@ -295,6 +295,9 @@ SBS PLUS-2,http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
 오십프로 제11회 26/06/26,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/오십프로_제11회 26_06_26.m3u8
 맨 끝줄 소년 제5회 26/06/26,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/맨 끝줄 소년_제5회 26_06_26.m3u8
 고독한 미식가 시즌11 제11회 26/06/13,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/고독한 미식가 시즌11_제11회 26_06_13.m3u8
+쇼! 음악중심 제387회 26/10/17,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/쇼! 음악중심_제387회 26_10_17.m3u8
+우리동네 전성시대 제7회 26/10/17,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/우리동네 전성시대_제7회 26_10_17.m3u8
+놀면 뭐하니? 제362회 26/10/17,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/놀면 뭐하니__제362회 26_10_17.m3u8
 금타는 금요일 제41회 26/10/17,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/금타는 금요일_제41회 26_10_17.m3u8
 나 혼자 산다 제701회 26/10/17,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/나 혼자 산다_제701회 26_10_17.m3u8
 무엇이든 해줄지니 - 비서진 제7회 26/10/17,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/무엇이든 해줄지니 - 비서진_제7회 26_10_17.m3u8
@@ -392,9 +395,9 @@ TV 동물농장 제445회 26/10/11,https://file-1253962976.cos.ap-nanjing.myqclo
 끝까지 간다 독박투어 제19회 26/10/10,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/끝까지 간다 독박투어_제19회 26_10_10.m3u8
 김주하의 데이앤나잇 제47회 26/10/10,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/김주하의 데이앤나잇_제47회 26_10_10.m3u8
 신인감독 김연경2 프리퀄: 원더독스의 시작 제1회 26/10/10,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/신인감독 김연경2 프리퀄_ 원더독스의 시작_제1회 26_10_10.m3u8
-살림하는 남자들 시즌2 제432회 26/10/10,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/살림하는 남자들 시즌2_제432회 26_10_10.m3u8
-강적들 제434회 26/10/10,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/강적들_제434회 26_10_10.m3u8
-아는 형님 제236회 26/10/10,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/아는 형님_제236회 26_10_10.m3u8
+쇼! 음악중심 제386회 26/10/10,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/쇼! 음악중심_제386회 26_10_10.m3u8
+우리동네 전성시대 제6회 26/10/10,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/우리동네 전성시대_제6회 26_10_10.m3u8
+놀면 뭐하니? 제361회 26/09/19,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/놀면 뭐하니__제361회 26_09_19.m3u8
 금타는 금요일 제40회 26/10/09,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/금타는 금요일_제40회 26_10_09.m3u8
 나 혼자 산다 제700회 26/10/09,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/나 혼자 산다_제700회 26_10_09.m3u8
 무엇이든 해줄지니 - 비서진 제6회 26/10/09,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/무엇이든 해줄지니 - 비서진_제6회 26_10_09.m3u8
@@ -485,9 +488,6 @@ TV 동물농장 제444회 26/10/04,https://file-1253962976.cos.ap-nanjing.myqclo
 전지적 참견 시점 제421회 26/10/03,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/전지적 참견 시점_제421회 26_10_03.m3u8
 끝까지 간다 독박투어 제18회 26/10/03,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/끝까지 간다 독박투어_제18회 26_10_03.m3u8
 김주하의 데이앤나잇 제46회 26/10/03,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/김주하의 데이앤나잇_제46회 26_10_03.m3u8
-살림하는 남자들 시즌2 제431회 26/10/03,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/살림하는 남자들 시즌2_제431회 26_10_03.m3u8
-강적들 제433회 26/09/19,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/강적들_제433회 26_09_19.m3u8
-아는 형님 제235회 26/10/03,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/아는 형님_제235회 26_10_03.m3u8
 延边卫视频道,https://srs.iyb983.cn/video/CYS/index.m3u8
 YBTV-1 朝鲜语综合频道,https://srs.iyb983.cn/video/ybtv1/index.m3u8
 YBTV-2 汉语综合频道,https://srs.iyb983.cn/video/ybtv2/index.m3u8
