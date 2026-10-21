@@ -191,6 +191,8 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2
 http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1
 #EXTINF:-1 tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/SBSPLUS.png" group-title="한국-생방송2",SBS PLUS-2
 http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52172.jpg" group-title="영화",인턴 본편
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/인턴_본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52166.jpg" group-title="영화",그린랜드 2: 마이그레이션 본편
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/그린랜드 2_ 마이그레이션_본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52160.jpg" group-title="영화",짐승들 본편
@@ -389,8 +391,6 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/나이브스 아
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/리턴 투 사일런트 힐_본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51728.jpg" group-title="영화",호퍼스 본편
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/호퍼스_본편.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51720.jpg" group-title="영화",하우스메이드 본편
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/하우스메이드_본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52146.jpg" group-title="영화",데드 캠프  (모음) 6 본편
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/데드 캠프  (모음)_6 본편.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52088.jpg" group-title="드라마(다시보기)",연애박사 제6회 26/10/20
@@ -591,10 +591,14 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/첫 번째 남�
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/오십프로_제11회 26_06_26.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51811.jpg" group-title="드라마(다시보기)",맨 끝줄 소년 제5회 26/06/26
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/맨 끝줄 소년_제5회 26_06_26.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52097.jpg" group-title="예능(다시보기)",상남자의 여행법 in 대만 제3회 26/10/21
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/상남자의 여행법 in 대만_제3회 26_10_21.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51986.jpg" group-title="예능(다시보기)",천만기인쇼 26/09/26
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/천만기인쇼_26_09_26.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/38433.jpg" group-title="예능(다시보기)",동상이몽 2 - 너는 내 운명 제464회 26/10/21
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/동상이몽 2 - 너는 내 운명_제464회 26_10_21.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51930.jpg" group-title="예능(다시보기)",스트릿 월드 파이터 : 디렉터스 워 제9회 26/10/21
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/스트릿 월드 파이터 _ 디렉터스 워_제9회 26_10_21.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52097.jpg" group-title="예능(다시보기)",상남자의 여행법 in 대만 제3회 26/10/21
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/상남자의 여행법 in 대만_제3회 26_10_21.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/41479.jpg" group-title="예능(다시보기)",옥탑방의 문제아들 제331회 26/10/20
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/옥탑방의 문제아들_제331회 26_10_20.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/49287.jpg" group-title="예능(다시보기)",틈만나면, 제62회 26/10/20
@@ -787,14 +791,14 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/더 리슨_ 우�
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/그라운드퀸 MC 전쟁_제5회 26_10_15.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52127.jpg" group-title="예능(다시보기)",IDOL'S TABLE (아이돌스 테이블) 제2회 26/10/14
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/IDOL'S TABLE (아이돌스 테이블)_제2회 26_10_14.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/28209.jpg" group-title="예능(다시보기)",슈퍼맨이 돌아왔다 제484회 26/10/14
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/슈퍼맨이 돌아왔다_제484회 26_10_14.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52155.jpg" group-title="예능(다시보기)",해원, 그녀들의 바당 제1회 26/10/14
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/해원, 그녀들의 바당_제1회 26_10_14.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52097.jpg" group-title="예능(다시보기)",상남자의 여행법 in 대만 제2회 26/10/13
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/상남자의 여행법 in 대만_제2회 26_10_13.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51986.jpg" group-title="예능(다시보기)",천만기인쇼 제5회 26/10/21
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/천만기인쇼_제5회 26_10_21.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/38433.jpg" group-title="예능(다시보기)",동상이몽 2 - 너는 내 운명 제463회 26/10/13
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/동상이몽 2 - 너는 내 운명_제463회 26_10_13.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/51930.jpg" group-title="예능(다시보기)",스트릿 월드 파이터 : 디렉터스 워 제8회 26/10/06
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/스트릿 월드 파이터 _ 디렉터스 워_제8회 26_10_06.m3u8
+#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52097.jpg" group-title="예능(다시보기)",상남자의 여행법 in 대만 제2회 26/10/13
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/상남자의 여행법 in 대만_제2회 26_10_13.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/41479.jpg" group-title="예능(다시보기)",옥탑방의 문제아들 제330회 26/10/13
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/옥탑방의 문제아들_제330회 26_10_13.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/49287.jpg" group-title="예능(다시보기)",틈만나면, 제61회 26/10/13
@@ -975,8 +979,6 @@ https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/더 리슨_ 우�
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/그라운드퀸 MC 전쟁_제4회 26_10_07.m3u8
 #EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/52127.jpg" group-title="예능(다시보기)",IDOL'S TABLE (아이돌스 테이블) 제1회 26/10/07
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/IDOL'S TABLE (아이돌스 테이블)_제1회 26_10_07.m3u8
-#EXTINF:-1 tvg-logo="https://www.kdrama.pw/img/videos/200x285/28209.jpg" group-title="예능(다시보기)",슈퍼맨이 돌아왔다 제483회 26/10/07
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/슈퍼맨이 돌아왔다_제483회 26_10_07.m3u8
 #EXTINF:-1 tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86.png" group-title="연변방송",延边卫视频道
 https://srs.iyb983.cn/video/CYS/index.m3u8
 #EXTINF:-1 tvg-logo="https://app-korealive-1253962976.cos.ap-nanjing.myqcloud.com/logo/YBTV-1%E6%9C%9D%E9%B2%9C%E8%AF%AD.png" group-title="연변방송",YBTV-1 朝鲜语综合频道
