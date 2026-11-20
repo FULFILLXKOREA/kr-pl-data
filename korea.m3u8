@@ -1,8 +1,8 @@
 #EXTM3U
-KBS1,http://43.164.132.11/kakaotv/get_channel.php?channel=kbs1
-KBS2,http://43.164.132.11/kakaotv/get_channel.php?channel=kbs2
+KBS1,https://tving-live-o2-xcdn.tving.com/o2/v1/01a0a8531d5c1eb80e791db1d96030/01a0a85320b41eb80e791db1d96033/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTUyNjQ2ODIsInBhdGgiOiIvbzIifQ.FbeSpe6CSoU-H3CkT0tT8T0oxpkwhCg-DwtStmUkPHw
+KBS2,https://tving-live-o2-ktcdn.tving.com/o2/v1/01a0a855bb341eb80e791db1d96034/01a0a855bea1153d78652fe2d08706/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1MjY0NjkzfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=iYFdRIMa7b92c0q9zTpaI7NMgmKRVrQHvWKJyHKzG0o7qIKVqBqWX~YlMrEOdJmhzWQxSpZdJqXS56Nb0qpeGgSQs6aZXJUdLJ0MzVpf6hwRuKkzyXGeSHX3VOs07MLLoz4d30lVdZQZd07rLmK7QD8CfsO11gHhnse-DNYzzwRoLqONvRFRr-ABrPLrORbrZo6dNJX0ya4v7V-nDYNpF84GeuiHa2LTbJvu8X6b7dvJUIM4CABfawPhFLbFsdgvMHU25DrOuPsSXcNpQuBEjHIEWhIMFHRZ0XkGBcIBG6aXC6fARP3YSDwgmBlyNZGcuEaEBtH3tsfKqhx4S2t4pw__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 SBS,http://43.164.132.11/kakaotv/get_channel.php?channel=sbs
-MBC,http://43.164.132.11/kakaotv/get_channel.php?channel=mbc
+MBC,https://tving-live-o2-xcdn.tving.com/v1/ssai/manifest/019bd50ff2d61eb80e791c22ad4884/fefe64a34817f02750beb1c60963be61/dmMxX3N0cmVhbTMubTN1OA==/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTUyMjkwNzQsInBhdGgiOiIvdjEifQ.GPQWG5q5DsPJyLbyWaGe1sZsz3hZF6WrJ5FYWPemy7c
 KBSWorld,http://koreatv.dothome.co.kr/kbsworld.php
 KBSStory,http://koreatv.dothome.co.kr/kbsstory.php
 KBSLife,http://koreatv.dothome.co.kr/kbslife.php
@@ -195,6 +195,7 @@ SBS PLUS-2,http://43.164.132.11/kakaotv/get_channel.php?channel=sbs_plus
 엘리베이션 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/엘리베이션_본편.m3u8
 가디언즈 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/가디언즈_본편.m3u8
 데드 캠프  (모음) 6 본편,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/데드 캠프  (모음)_6 본편.m3u8
+라이어 제7회 26/11/21,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/라이어_제7회 26_11_21.m3u8
 가족관계증명서 제85회 26/11/20,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/가족관계증명서_제85회 26_11_20.m3u8
 엄마가 미쳤어요 제40회 26/11/20,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/엄마가 미쳤어요_제40회 26_11_20.m3u8
 욕망의 덫 제62회 26/11/20,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/욕망의 덫_제62회 26_11_20.m3u8
@@ -213,7 +214,6 @@ KBS 드라마스페셜 2026 사운드:트랙 제2회 26/11/19,https://file-12539
 100일의 거짓말 제12회 26/11/15,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/100일의 거짓말_제12회 26_11_15.m3u8
 문무 스페셜 2부,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/문무_스페셜 2부.m3u8
 사랑이 온다 제31회 26/11/15,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/사랑이 온다_제31회 26_11_15.m3u8
-라이어 제6회 26/11/15,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/라이어_제6회 26_11_15.m3u8
 닥터X : 하얀 마피아의 시대 최종회 26/11/14,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/닥터X _ 하얀 마피아의 시대_최종회 26_11_14.m3u8
 옆자리, 프란체스카 최종회 26/11/13,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/옆자리, 프란체스카_최종회 26_11_13.m3u8
 비전퀘스트 최종회 26/11/11,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/비전퀘스트_최종회 26_11_11.m3u8
@@ -244,7 +244,7 @@ KBS 드라마스페셜 2026 사운드:트랙 제2회 26/11/19,https://file-12539
 오싹한 연애 최종회 26/08/23,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/오싹한 연애_최종회 26_08_23.m3u8
 그대에게 드림 최종회 26/08/18,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/그대에게 드림_최종회 26_08_18.m3u8
 아파트 최종회 26/08/16,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/아파트_최종회 26_08_16.m3u8
-킬러들의 쇼핑몰 시즌2 최종회 26/08/12,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/킬러들의 쇼핑몰 시즌2_최종회 26_08_12.m3u8
+라이어 제6회 26/11/15,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/라이어_제6회 26_11_15.m3u8
 가족관계증명서 제84회 26/11/19,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/가족관계증명서_제84회 26_11_19.m3u8
 엄마가 미쳤어요 제39회 26/11/19,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/엄마가 미쳤어요_제39회 26_11_19.m3u8
 욕망의 덫 제61회 26/11/19,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/욕망의 덫_제61회 26_11_19.m3u8
@@ -263,7 +263,6 @@ KBS 드라마스페셜 2026 사운드:트랙 제1회 26/11/18,https://file-12539
 100일의 거짓말 제11회 26/11/14,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/100일의 거짓말_제11회 26_11_14.m3u8
 문무 제2회 26/11/15,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/문무_제2회 26_11_15.m3u8
 사랑이 온다 제30회 26/11/14,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/사랑이 온다_제30회 26_11_14.m3u8
-라이어 제5회 26/11/13,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/라이어_제5회 26_11_13.m3u8
 닥터X : 하얀 마피아의 시대 제11회 26/11/13,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/닥터X _ 하얀 마피아의 시대_제11회 26_11_13.m3u8
 옆자리, 프란체스카 제3회 26/11/13,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/옆자리, 프란체스카_제3회 26_11_13.m3u8
 비전퀘스트 제7회 26/11/04,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/비전퀘스트_제7회 26_11_04.m3u8
@@ -293,8 +292,19 @@ KBS 드라마스페셜 2026 사운드:트랙 제1회 26/11/18,https://file-12539
 오싹한 연애 제11회 26/08/22,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/오싹한 연애_제11회 26_08_22.m3u8
 그대에게 드림 제11회 26/08/17,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/그대에게 드림_제11회 26_08_17.m3u8
 아파트 제11회 26/08/15,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/아파트_제11회 26_08_15.m3u8
-킬러들의 쇼핑몰 시즌2 제7회 26/08/12,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/킬러들의 쇼핑몰 시즌2_제7회 26_08_12.m3u8
-2026 MAMA AWARDS 제1회 26/11/20,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/2026 MAMA AWARDS_제1회 26_11_20.m3u8
+나 혼자 산다 제706회 26/11/21,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/나 혼자 산다_제706회 26_11_21.m3u8
+맛따라 길따라 대명이따라 최종회 26/11/20,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/맛따라 길따라 대명이따라_최종회 26_11_20.m3u8
+전현무계획4 제21회 26/11/20,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/전현무계획4_제21회 26_11_20.m3u8
+신랑수업2 제35회 26/11/20,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/신랑수업2_제35회 26_11_20.m3u8
+용감한 형사들 5 제30회 26/11/21,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/용감한 형사들 5_제30회 26_11_21.m3u8
+더 시즌즈-성시경의 고막남친 제32회 26/11/21,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/더 시즌즈-성시경의 고막남친_제32회 26_11_21.m3u8
+금타는 금요일 제46회 26/11/21,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/금타는 금요일_제46회 26_11_21.m3u8
+무엇이든 해줄지니 - 비서진 제11회 26/11/21,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/무엇이든 해줄지니 - 비서진_제11회 26_11_21.m3u8
+백수 이세돌 최종회 26/11/20,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/백수 이세돌_최종회 26_11_20.m3u8
+2026 MAMA AWARDS 제3회 26/11/20,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/2026 MAMA AWARDS_제3회 26_11_20.m3u8
+언니만 따라와 제4회 26/11/20,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/언니만 따라와_제4회 26_11_20.m3u8
+THE 맛있는 녀석들 제123회 26/11/20,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/THE 맛있는 녀석들_제123회 26_11_20.m3u8
+이십세기 힛-트쏭 제340회 26/11/20,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/이십세기 힛-트쏭_제340회 26_11_20.m3u8
 뮤직뱅크 2026 제62회 26/11/20,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/뮤직뱅크 2026_제62회 26_11_20.m3u8
 꼬리에 꼬리를 무는 이야기 시즌3 제249회 26/11/20,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/꼬리에 꼬리를 무는 이야기 시즌3_제249회 26_11_20.m3u8
 미스트롯 포유 제26회 26/11/20,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/미스트롯 포유_제26회 26_11_20.m3u8
@@ -382,18 +392,19 @@ TV 동물농장 제450회 26/11/15,https://file-1253962976.cos.ap-nanjing.myqclo
 숨바꼭질 2 (SUMBAKKOKJIL 2) 제7회 26/11/14,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/숨바꼭질 2 (SUMBAKKOKJIL 2)_제7회 26_11_14.m3u8
 놀라운 토요일 제448회 26/11/14,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/놀라운 토요일_제448회 26_11_14.m3u8
 차트를 달리는 남자 제235회 25/12/20,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/차트를 달리는 남자_제235회 25_12_20.m3u8
-쇼! 음악중심 제391회 26/11/14,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/쇼! 음악중심_제391회 26_11_14.m3u8
-영민씨와 대단한 친구들 시즌2 제5회 26/11/14,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/영민씨와 대단한 친구들 시즌2_제5회 26_11_14.m3u8
 나 혼자 산다 제705회 26/11/14,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/나 혼자 산다_제705회 26_11_14.m3u8
-지옥의 짬밥 제2회 26/11/14,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/지옥의 짬밥_제2회 26_11_14.m3u8
-금타는 금요일 제45회 26/11/14,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/금타는 금요일_제45회 26_11_14.m3u8
-용감한 형사들 5 제29회 26/11/13,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/용감한 형사들 5_제29회 26_11_13.m3u8
+맛따라 길따라 대명이따라 제4회 26/11/13,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/맛따라 길따라 대명이따라_제4회 26_11_13.m3u8
 전현무계획4 제20회 26/11/13,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/전현무계획4_제20회 26_11_13.m3u8
-우리동네 플레이리스트 제1회 26/11/14,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/우리동네 플레이리스트_제1회 26_11_14.m3u8
-더 시즌즈-성시경의 고막남친 제31회 26/11/14,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/더 시즌즈-성시경의 고막남친_제31회 26_11_14.m3u8
-백수 이세돌 제4회 26/11/13,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/백수 이세돌_제4회 26_11_13.m3u8
-이십세기 힛-트쏭 제339회 26/11/13,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/이십세기 힛-트쏭_제339회 26_11_13.m3u8
 신랑수업2 제34회 26/11/13,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/신랑수업2_제34회 26_11_13.m3u8
+용감한 형사들 5 제29회 26/11/13,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/용감한 형사들 5_제29회 26_11_13.m3u8
+더 시즌즈-성시경의 고막남친 제31회 26/11/14,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/더 시즌즈-성시경의 고막남친_제31회 26_11_14.m3u8
+금타는 금요일 제45회 26/11/14,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/금타는 금요일_제45회 26_11_14.m3u8
+무엇이든 해줄지니 - 비서진 제10회 26/11/07,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/무엇이든 해줄지니 - 비서진_제10회 26_11_07.m3u8
+백수 이세돌 제4회 26/11/13,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/백수 이세돌_제4회 26_11_13.m3u8
+2026 MAMA AWARDS 제2회 26/11/20,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/2026 MAMA AWARDS_제2회 26_11_20.m3u8
+언니만 따라와 제3회 26/11/13,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/언니만 따라와_제3회 26_11_13.m3u8
+THE 맛있는 녀석들 제122회 26/11/13,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/THE 맛있는 녀석들_제122회 26_11_13.m3u8
+이십세기 힛-트쏭 제339회 26/11/13,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/이십세기 힛-트쏭_제339회 26_11_13.m3u8
 뮤직뱅크 2026 제61회 26/11/13,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/뮤직뱅크 2026_제61회 26_11_13.m3u8
 꼬리에 꼬리를 무는 이야기 시즌3 제249회 26/11/19,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/꼬리에 꼬리를 무는 이야기 시즌3_제249회 26_11_19.m3u8
 미스트롯 포유 제25회 26/11/12,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/미스트롯 포유_제25회 26_11_12.m3u8
@@ -478,17 +489,6 @@ TV 동물농장 제449회 26/11/08,https://file-1253962976.cos.ap-nanjing.myqclo
 숨바꼭질 2 (SUMBAKKOKJIL 2) 제6회 26/11/01,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/숨바꼭질 2 (SUMBAKKOKJIL 2)_제6회 26_11_01.m3u8
 놀라운 토요일 제447회 26/11/07,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/놀라운 토요일_제447회 26_11_07.m3u8
 차트를 달리는 남자 제234회 25/12/13,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/차트를 달리는 남자_제234회 25_12_13.m3u8
-쇼! 음악중심 제390회 26/11/07,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/쇼! 음악중심_제390회 26_11_07.m3u8
-영민씨와 대단한 친구들 시즌2 제4회 26/11/14,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/영민씨와 대단한 친구들 시즌2_제4회 26_11_14.m3u8
-나 혼자 산다 제704회 26/11/07,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/나 혼자 산다_제704회 26_11_07.m3u8
-지옥의 짬밥 제1회 26/11/07,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/지옥의 짬밥_제1회 26_11_07.m3u8
-금타는 금요일 제44회 26/11/07,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/금타는 금요일_제44회 26_11_07.m3u8
-용감한 형사들 5 제28회 26/11/06,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/용감한 형사들 5_제28회 26_11_06.m3u8
-전현무계획4 제19회 26/11/06,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/전현무계획4_제19회 26_11_06.m3u8
-더 시즌즈-성시경의 고막남친 제30회 26/11/07,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/더 시즌즈-성시경의 고막남친_제30회 26_11_07.m3u8
-백수 이세돌 제3회 26/11/07,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/백수 이세돌_제3회 26_11_07.m3u8
-이십세기 힛-트쏭 제338회 26/11/07,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/이십세기 힛-트쏭_제338회 26_11_07.m3u8
-신랑수업2 제33회 26/11/07,https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/신랑수업2_제33회 26_11_07.m3u8
 延边卫视频道,https://srs.iyb983.cn/video/CYS/index.m3u8
 YBTV-1 朝鲜语综合频道,https://srs.iyb983.cn/video/ybtv1/index.m3u8
 YBTV-2 汉语综合频道,https://srs.iyb983.cn/video/ybtv2/index.m3u8
